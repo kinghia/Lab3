@@ -1,0 +1,7 @@
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\bin\Debug\Lab3.B3.exe.config
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\bin\Debug\Lab3.B3.exe
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\bin\Debug\Lab3.B3.pdb
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\obj\Debug\Lab3.B3.csproj.AssemblyReference.cache
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\obj\Debug\Lab3.B3.csproj.CoreCompileInputs.cache
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\obj\Debug\Lab3.B3.exe
+C:\Users\Huu Nghia\Desktop\C#2GAM109\Bài Lab\LAB3\Lab3.B3\obj\Debug\Lab3.B3.pdb
